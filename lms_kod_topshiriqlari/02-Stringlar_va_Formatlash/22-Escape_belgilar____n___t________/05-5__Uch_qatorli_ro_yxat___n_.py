@@ -1,0 +1,1 @@
+print("olma\nnok\nuzum")
