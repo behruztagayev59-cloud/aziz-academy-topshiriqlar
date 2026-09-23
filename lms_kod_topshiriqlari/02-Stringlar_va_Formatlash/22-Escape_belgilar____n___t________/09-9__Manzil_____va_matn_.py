@@ -1,0 +1,2 @@
+
+print("Papka: D:\Hujjatlar")
