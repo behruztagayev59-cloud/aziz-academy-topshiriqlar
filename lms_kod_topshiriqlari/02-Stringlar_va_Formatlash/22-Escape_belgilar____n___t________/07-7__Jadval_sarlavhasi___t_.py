@@ -1,0 +1,1 @@
+print("Nom\tNarx\tSoni")
