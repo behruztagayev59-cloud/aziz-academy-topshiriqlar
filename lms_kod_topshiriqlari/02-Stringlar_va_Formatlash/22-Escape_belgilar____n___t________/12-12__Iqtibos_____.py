@@ -1,0 +1,1 @@
+print("Hikmat: \"Mehnat baxt manbai\"")
