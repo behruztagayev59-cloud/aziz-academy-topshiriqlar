@@ -1,0 +1,1 @@
+print("Kun\tOy\n25\t06")
