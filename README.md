@@ -4,14 +4,14 @@
 
 ## 📊 Umumiy progress
 
-`██░░░░░░░░░░░░░░░░░░` **10%**  (18/179 mavzu)
+`██░░░░░░░░░░░░░░░░░░` **11%**  (19/179 mavzu)
 
-- ⭐ Jami ball: **31328**
-- 📤 GitHubga yuborilgan topshiriqlar: **94**
+- ⭐ Jami ball: **31333**
+- 📤 GitHubga yuborilgan topshiriqlar: **95**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 2 — Stringlar va Formatlash** → **Ko'p qatorli stringlar — """...""", docstring**
+**MODUL 2 — Stringlar va Formatlash** → **🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi**
 
 ➡️ Keyingi mavzu: *Index va slicing ⭐ — s[0], s[1:4], s[::-1]*
 
@@ -25,8 +25,8 @@
 - ✅ f-string ⭐ — zamonaviy formatlash (f"{ism}")
 - ✅ Boshqa formatlash — .format() va % (eski usullar)
 - ✅ Escape belgilar — \n, \t, \\, \"
-- ✅ Ko'p qatorli stringlar — """...""", docstring  ← yetgan joyingiz
-- ⬜ 🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi
+- ✅ Ko'p qatorli stringlar — """...""", docstring
+- ✅ 🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi  ← yetgan joyingiz
 - ⬜ 🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)
 
 </details>
@@ -36,7 +36,7 @@
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
 | 1 | 🔸 Asoslar | `█████████░` 87% | 13/15 |
-| 2 | 🔸 Stringlar va Formatlash | `█████░░░░░` 50% | 5/10 |
+| 2 | 🔸 Stringlar va Formatlash | `██████░░░░` 60% | 6/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
